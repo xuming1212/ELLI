@@ -20,7 +20,7 @@ the 1000 ms (1 s) exposure-time picture from the first group
 
 
 
-EXAMPLE 
+EXAMPLE  
 Two groups here as examples of RELLI for you to determine if it suits your purpose.
 
 
@@ -35,7 +35,7 @@ Please feel free to contact me at xuming_ouc@163.com if there is any problem.
 
 
 
-CITATION
+CITATION  
 Should you find it is useful, please cite the article as following   
 "  "
 
