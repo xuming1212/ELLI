@@ -13,8 +13,9 @@ RELLI contains 1524 pictures (508  groups), in .tiff format with resolution of 2
 
 Naming Convention  
 group number.exposure time.tif  
-eg  001.1000.tif  the 1000 ms (1 s) 
-     exposure-time picture from the first group
+eg  
+001.1000.tif  the 1000 ms (1 s)   
+exposure-time picture from the first group  
 
 
 
