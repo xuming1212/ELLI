@@ -1,6 +1,6 @@
 # RELLI
 
-This is RELLI (Real Extreme Low-Light Image) dataset, you will find details related to it in the paper "Extreme Low-light Image Enhancement Using Convolutional Neural Network"
+This is RELLI (Real Extreme Low-Light Image) dataset, you will find details related to it in the paper "Extreme Low-light Image Enhancement Using Deep Neural Network"
 
 Description
 
