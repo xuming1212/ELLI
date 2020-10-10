@@ -6,12 +6,10 @@ This is RELLI (Real Extreme Low-Light Image) dataset, you will find details rela
 Description
 RELLI contains 1524 pictures (508  groups), in .tiff format with resolution of 2688×2200. Each group consists of 3 pictures of the same scene, but distinct by exposure time.    From which, 1s and 3s-exposure images are extreme low-light objects, and 70s-exposure images can be served as ground-truth. The photography detail can be found in the paper.
 
-
 Naming Convention
 group number.exposure time.tif   
 eg
-001.1000.tif  
-the 1000 ms (1 s) exposure-time picture from the first group 
+001.1000.tif    the 1000 ms (1 s) exposure-time picture from the first group
 
 
 Example
