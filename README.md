@@ -10,6 +10,8 @@ RELLI contains 1524 pictures (508  groups), in .tiff format with resolution of 2
 
 
 Naming Convention
+
+
 group number.exposure time.tif   
 eg
 001.1000.tif    the 1000 ms (1 s) exposure-time picture from the first group
@@ -26,12 +28,9 @@ Access
 
 RELLI is 16.7 GB in total, the corresponding zip. file excess 12GB. So we upload it on Baiduyun
 
-
 Link:   https://pan.baidu.com/s/1_7-gsBux3TllNhjrqN3EoA 
 
-
 Password：ftrr 
-
 
 Please feel free to contact me at xuming_ouc@163.com if there is any problem.
 
@@ -40,6 +39,7 @@ Citation
 
 
 Should you find it is useful, please cite the article as following:
+
 "  "
 
   
