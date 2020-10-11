@@ -19,7 +19,7 @@ Two groups here as examples of RELLI for you to determine if it suits your purpo
 
 
 ACCESS  
-RELLI is 16.7 GB in total, the corresponding zip. file excess 12GB. So we upload it on Baiduyun  
+RELLI is 16.7 GB in total, the corresponding zip. file excess 12GB. So we upload it on Baidu Netdisk
 Link:   https://pan.baidu.com/s/1_7-gsBux3TllNhjrqN3EoA   
 Password：ftrr  
 Please feel free to contact me at xuming_ouc@163.com if there is any problem.
